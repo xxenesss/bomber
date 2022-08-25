@@ -7,7 +7,9 @@
 
 ## Launch
 *Installing the module - node-fetch*
+
 *npm install node-fetch*
+
 *Importing services into a script in the services.js file*
 
 ## Built With
